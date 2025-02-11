@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.hanamax.snack1deb80bf0c964bf98765f912a9793ed0"
     },
     "web": {
       "favicon": "./assets/favicon.png"
